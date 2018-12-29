@@ -1,5 +1,5 @@
-# geoip2-rest-api-golang
-GeoIP2 rest api in golang (Gin) just fork and docker-compose up
+# geoip2 rest api golang
+GeoIP2 rest api in golang (Gin) just fork and docker-compose up and star it if you like the work.
 
 
 ## To get started :
