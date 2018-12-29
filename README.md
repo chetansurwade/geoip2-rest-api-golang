@@ -17,3 +17,10 @@ or
 `go build main.go`
 
 and run the executable
+
+
+## Usage:
+
+->  http://localhost:8080/geoip?ip=113.193.190.207
+
+->  http://localhost:8080/geoip?ip=113.193.190.207&ip=2607:f238:2::5
