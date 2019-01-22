@@ -1,0 +1,6 @@
+applications:
+- name: geoip2-api
+  buildpack: https://github.com/cloudfoundry/go-buildpack.git
+  memory: 1G
+  env:
+     GOPACKAGENAME: geoip2-api
